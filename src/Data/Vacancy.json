@@ -1,0 +1,38 @@
+[
+    {
+        "posName":"Full Stack Developer",
+        "id":"FSD1",
+        "des":"MERN Stack development with Backend in Node Js and frontend in React JS",
+        "minexp":"2",
+        "skills":["Node Js","React Js","Mongodb"]
+    },
+    {
+        "posName":"UI Developer",
+        "id":"UID1",
+        "des":"Making Fimga models and configuring React and Angular to look the Same",
+        "minexp":"3",
+        "skills":["React Js","Angular","Figma","CSS"]
+    },
+    {
+        "posName":"Frontend Developer",
+        "id":"FD1",
+        "des":"Development of Frontend with ReactJS and Angular JS",
+        "minexp":"4",
+        "skills":["React Js","HTML","Angular JS","CSS"]
+    },
+    {
+        "posName":"Android Developer",
+        "id":"AD1",
+        "des":"Android Development using Kotlin and Java",
+        "minexp":"2",
+        "skills":["Kotlin","Java","XML"]
+    },
+    {
+        "posName":"Backend Developer",
+        "id":"BD1",
+        "des":"BAckend Development using Flask and Django",
+        "minexp":"4",
+        "skills":["Flask","Django","SQL","Python"]
+    }
+
+]
